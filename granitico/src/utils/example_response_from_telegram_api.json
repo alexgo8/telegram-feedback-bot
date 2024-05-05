@@ -1,0 +1,28 @@
+{
+  "update_id": 105432837,
+  "message": {
+    "message_id": 38,
+    "from": {
+      "id": 5076984821,
+      "is_bot": false,
+      "first_name": "Alexander",
+      "username": "alexgoncharovv",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 5076984821,
+      "first_name": "Alexander",
+      "username": "alexgoncharovv",
+      "type": "private"
+    },
+    "date": 1714473520,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
+  }
+}
